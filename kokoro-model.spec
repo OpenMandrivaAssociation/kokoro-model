@@ -10,8 +10,8 @@ Source0:	%{name}-%{version}.tar.xz
 BuildArch:	noarch
 
 %description
-Shared Kokoro-82M checkpoint used by the official voice packs in
-kokoro-voices. The German Thorsten voice ships its own checkpoint and
+Shared Kokoro-82M checkpoint used by the official kokoro-voice-*
+packages. The German Thorsten voice ships its own checkpoint and
 does not need this package.
 
 %prep
